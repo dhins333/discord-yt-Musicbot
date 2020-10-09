@@ -4,7 +4,7 @@ A bot created with discordjs api that can play music extracted from youtube vide
 
 ### Commands:
 
-**$play <YouTube Link>**
+**$play /YouTube Link/ (Without /)**
   
 Play the Audio
   
@@ -16,7 +16,7 @@ Pause Playing Audio
 
 Stop Playing Audio
 
-**$add <YoutubeLink>**
+**$add /YoutubeLink/ (Without /)**
 
 Add a Youtube link to queue
 
